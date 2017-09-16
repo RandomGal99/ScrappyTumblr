@@ -1,10 +1,10 @@
-# ScrapyTumblr
+# ScrappyTumblr
 Tumblr image scraper avoiding API and supporting password protected tumblrs
 
 ## Execution
 1) Download the source and install the required third party library
 ~~~ sh
-$ git clone https://github.com/vaguilera/ScrapyTumblr.git
+$ git clone https://github.com/vaguilera/ScrappyTumblr.git
 $ npm install
 ~~~
 
